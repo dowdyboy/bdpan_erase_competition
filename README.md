@@ -37,7 +37,7 @@
 
 训练验证数据 下载：
 
-
+链接: https://pan.baidu.com/s/1w997pFY0WHHa4XnNWbgDxA?pwd=mud6 提取码: mud6 
 
 ## 训练
 > 将数据集放在dataset文件夹下；
